@@ -1,7 +1,3 @@
-
-
-
-
 from push_data import *
 from read_data import *
 from print_data import *

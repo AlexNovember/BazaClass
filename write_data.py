@@ -1,4 +1,4 @@
-# модуль
+
 
 def write_data(data, name):
     with open(name, 'a+') as file:

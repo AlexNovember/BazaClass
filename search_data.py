@@ -1,4 +1,4 @@
-# модуль поиска контакта
+
 
 from read_data import read_data
 from print_data import print_data

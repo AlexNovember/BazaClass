@@ -15,16 +15,4 @@ def input_data():
     dct["house"] = input('Введите Дом: ')
     dct["apartament"] = input('Введите Квартира: ')
     dct["other"] = input('Введите Примечание: ')
-    # dct["id"] = Id     # list[0] - это Id ученика
-    # dct["surname"] = "Фамилия"
-    # dct["name"] = "Имя"
-    # dct["class"] = "Класс"
-    # dct["status"] = "статус"
-    # dct["row"] = "ряд"
-    # dct["col"] = "номер парты"
-    # dct["city"] = "город"
-    # dct["street"] = "улица"
-    # dct["house"] = "дом"
-    # dct["apartament"] = "квартира"
-    # dct["other"] = "примечание"
     return dct
